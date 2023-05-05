@@ -2,6 +2,8 @@
 
 Este repositório contém as pastas clonadas e modificadas dos dois algorítmos utilizados na seletiva, stella_vslam e VINS-Fusion, além de outras pastas necessárias para a execução dos algoritmos, como datasets e arquivos de configuração. Utilizei docker e ROS para executar os algoritmos.
 
+* necessário baixar e colocar datasets e rosbags necessários nas respectivas pastas
+
 Para executar o VINS-Fusion utilizando o EuroC dataset, siga os seguintes passos:
 
 ```
