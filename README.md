@@ -1,6 +1,6 @@
 # Seletiva-Robocin
 
-Este repositório contém as pastas clonadas e modificadas dos dois algorítmos utilizados na seletiva, stella_vslam e VINS-Fsuion, além de outras pastas necessárias para a execução dos algoritmos, como datasets e arquivos de configuração. Utilizei docker e ROS para executar os algoritmos.
+Este repositório contém as pastas clonadas e modificadas dos dois algorítmos utilizados na seletiva, stella_vslam e VINS-Fusion, além de outras pastas necessárias para a execução dos algoritmos, como datasets e arquivos de configuração. Utilizei docker e ROS para executar os algoritmos.
 
 Para executar o VINS-Fusion utilizando o EuroC dataset, siga os seguintes passos:
 
@@ -50,4 +50,4 @@ python3 ../teste/nodeCamera.py &
 ```
 ros2 run stella_vslam_ros run_slam -v ../teste/orb_vocab.fbow -c ../teste/EuRoC_mono.yaml 
 ```
-
+Repositorios clonados e colocados no projeto foram utilizados com motivações acadêmicas.
