@@ -1,0 +1,2 @@
+VINS-Fusion/camera_models:VINS-Fusion/global_fusion:VINS-Fusion/loop_fusion:VINS-Fusion/vins_estimator:orb_slam3_ros_wrapper
+-DCATKIN_DEVEL_PREFIX=/home/gabriel/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gabriel/catkin_ws/install -G Unix Makefiles

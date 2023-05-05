@@ -1,0 +1,8 @@
+stella em real time:
+https://drive.google.com/file/d/1RlcejMPx2s-PdZCgBGFlDCZEuYZhPvdC/view?usp=sharing
+
+stella no Euroc dataset:
+https://drive.google.com/file/d/1oM1ulTVtvGllDlobZ34SVfX2_KB3ps-5/view?usp=sharing
+
+vins-fusion no dataset:
+https://drive.google.com/file/d/1NIU57tBuBAGHZYOS7eEbrYmnqmzu1bse/view?usp=sharing
